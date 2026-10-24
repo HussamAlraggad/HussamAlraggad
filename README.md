@@ -19,7 +19,7 @@ Building practical, scalable solutions with clean architecture and readable code
 
 ## Featured Projects
 
-### [Portfolio](https://github.com/HussamAlraggad/portfolio_03)
+### [Portfolio](https://github.com/HussamAlraggad/portfolio_04)
 My personal portfolio built with Astro, showcasing my work and projects.
 `Astro` `Tailwind CSS`
 
